@@ -1,0 +1,19 @@
+Before Starting the index.js 
+
+1.mkdir book-api
+2.cd book-api
+3.npm init -y
+4.npm install express
+
+
+ How to Run
+Open folder in VS Code
+
+Create index.js file and paste the code
+
+In terminal:
+
+bash
+Copy
+Edit
+node index.js
